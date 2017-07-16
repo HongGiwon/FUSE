@@ -13,10 +13,10 @@ Mount (마운트할 경로에 fsv01을 두고)
 -./fsv01
 
 Function
--storage init/load
--make/remove file/folder
--read/write file
--get attribute
--open file/folder
--chmod
-등의 기능을 구현하였습니다. 명령어와 자세한 설명은 보고서를 참고하여 알 수 있습니다.
+<br>-storage init/load
+<br>-make/remove file/folder
+<br>-read/write file
+<br>-get attribute
+<br>-open file/folder
+<br>-chmod
+<br>등의 기능을 구현하였습니다. 명령어와 자세한 설명은 보고서를 참고하여 알 수 있습니다.
