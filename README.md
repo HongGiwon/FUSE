@@ -3,14 +3,14 @@
 <br>소프트웨어 인터페이스 FUSE(File System in User Space)를 사용하여 제작한 파일 시스템입니다.
 
 Development environment
-OS: Ubuntu v.15.04 
-FUSE: v.26
+<br>OS: Ubuntu v.15.04 
+<br>FUSE: v.26
 
 Compile
--gcc -D_FILE_OFFSET_BITS=64 -o fsv01 fsv01.c -lfuse
+<br>-gcc -D_FILE_OFFSET_BITS=64 -o fsv01 fsv01.c -lfuse
 
 Mount (마운트할 경로에 fsv01을 두고)
--./fsv01
+<br>-./fsv01
 
 Function
 <br>-storage init/load
