@@ -9,7 +9,7 @@ OS: Ubuntu v.15.04
 ### Compile
 -gcc -D_FILE_OFFSET_BITS=64 -o fsv01 fsv01.c -lfuse
 
-### Mount (마운트할 경로에 fsv01을 두고)
+### Mount (마운트할 경로에서 fsv01을 두고)
 -./fsv01
 
 ### 구현 기능
