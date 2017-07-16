@@ -13,7 +13,7 @@ OS: Ubuntu v.15.04
 -./fsv01
 
 ### 구현 기능
-<br>-storage init/load
+-storage init/load
 <br>-make/remove file/folder
 <br>-read/write file
 <br>-get attribute
